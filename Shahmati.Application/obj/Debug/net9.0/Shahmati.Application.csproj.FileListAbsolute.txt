@@ -1,0 +1,17 @@
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Application.deps.json
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Application.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Application.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Contracts.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Contracts.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/bin/Debug/net9.0/Shahmati.Domain.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.csproj.AssemblyReference.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.AssemblyInfoInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.AssemblyInfo.cs
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.F50BBC3E.Up2Date
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/refint/Shahmati.Application.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/ref/Shahmati.Application.dll

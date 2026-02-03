@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Shahmati.Contracts/1.0.0": {
+        "dependencies": {
+          "Shahmati.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Shahmati.Contracts.dll": {}
+        }
+      },
+      "Shahmati.Domain/1.0.0": {
+        "runtime": {
+          "Shahmati.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shahmati.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shahmati.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

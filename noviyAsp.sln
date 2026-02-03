@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Web", "Shahmati.Web\Shahmati.Web.csproj", "{9FAFE3EC-7114-45B6-A405-7D9851695445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Domain", "Shahmati.Domain\Shahmati.Domain.csproj", "{0763B3E9-5C60-4BC0-B938-221B3193D5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Application", "Shahmati.Application\Shahmati.Application.csproj", "{1B0A178B-AB60-4591-AD1A-159444FC5FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Controllers", "Shahmati.Controllers\Shahmati.Controllers.csproj", "{E8EDF159-B993-4531-90C2-70B68B1A8B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Contracts", "Shahmati.Contracts\Shahmati.Contracts.csproj", "{69E9EA28-0346-427D-9264-34703CD61FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shahmati.Infrastructure.Postgres", "Shahmati.Infrastructure.Postgres\Shahmati.Infrastructure.Postgres.csproj", "{5FC02029-1314-46DF-885C-7C178339FC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FAFE3EC-7114-45B6-A405-7D9851695445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAFE3EC-7114-45B6-A405-7D9851695445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAFE3EC-7114-45B6-A405-7D9851695445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAFE3EC-7114-45B6-A405-7D9851695445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0763B3E9-5C60-4BC0-B938-221B3193D5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0763B3E9-5C60-4BC0-B938-221B3193D5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0763B3E9-5C60-4BC0-B938-221B3193D5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0763B3E9-5C60-4BC0-B938-221B3193D5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0A178B-AB60-4591-AD1A-159444FC5FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0A178B-AB60-4591-AD1A-159444FC5FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0A178B-AB60-4591-AD1A-159444FC5FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0A178B-AB60-4591-AD1A-159444FC5FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8EDF159-B993-4531-90C2-70B68B1A8B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EDF159-B993-4531-90C2-70B68B1A8B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EDF159-B993-4531-90C2-70B68B1A8B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EDF159-B993-4531-90C2-70B68B1A8B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E9EA28-0346-427D-9264-34703CD61FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E9EA28-0346-427D-9264-34703CD61FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E9EA28-0346-427D-9264-34703CD61FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E9EA28-0346-427D-9264-34703CD61FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC02029-1314-46DF-885C-7C178339FC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC02029-1314-46DF-885C-7C178339FC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC02029-1314-46DF-885C-7C178339FC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC02029-1314-46DF-885C-7C178339FC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/Shahmati.Infrastructure.Postgres.csproj": {}
+  },
+  "projects": {
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj",
+        "projectName": "Shahmati.Application",
+        "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj",
+        "packagesPath": "/Users/egorvasilev/.nuget/packages/",
+        "outputPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorvasilev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj",
+        "projectName": "Shahmati.Contracts",
+        "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj",
+        "packagesPath": "/Users/egorvasilev/.nuget/packages/",
+        "outputPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorvasilev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/Shahmati.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/Shahmati.Controllers.csproj",
+        "projectName": "Shahmati.Controllers",
+        "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/Shahmati.Controllers.csproj",
+        "packagesPath": "/Users/egorvasilev/.nuget/packages/",
+        "outputPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorvasilev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj"
+              },
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj"
+              },
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj",
+        "projectName": "Shahmati.Domain",
+        "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj",
+        "packagesPath": "/Users/egorvasilev/.nuget/packages/",
+        "outputPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorvasilev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/Shahmati.Infrastructure.Postgres.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/Shahmati.Infrastructure.Postgres.csproj",
+        "projectName": "Shahmati.Infrastructure.Postgres",
+        "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/Shahmati.Infrastructure.Postgres.csproj",
+        "packagesPath": "/Users/egorvasilev/.nuget/packages/",
+        "outputPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorvasilev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/Shahmati.Application.csproj"
+              },
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/Shahmati.Contracts.csproj"
+              },
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/Shahmati.Controllers.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/Shahmati.Controllers.csproj"
+              },
+              "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj": {
+                "projectPath": "/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/Shahmati.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

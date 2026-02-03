@@ -1,0 +1,11 @@
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/bin/Debug/net9.0/Shahmati.Domain.deps.json
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/bin/Debug/net9.0/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/bin/Debug/net9.0/Shahmati.Domain.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.AssemblyInfoInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.AssemblyInfo.cs
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/refint/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/ref/Shahmati.Domain.dll

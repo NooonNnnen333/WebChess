@@ -1,0 +1,15 @@
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/bin/Debug/net9.0/Shahmati.Contracts.deps.json
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/bin/Debug/net9.0/Shahmati.Contracts.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/bin/Debug/net9.0/Shahmati.Contracts.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/bin/Debug/net9.0/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/bin/Debug/net9.0/Shahmati.Domain.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.csproj.AssemblyReference.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.AssemblyInfoInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.AssemblyInfo.cs
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.9F4F331B.Up2Date
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/refint/Shahmati.Contracts.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.pdb
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/ref/Shahmati.Contracts.dll
