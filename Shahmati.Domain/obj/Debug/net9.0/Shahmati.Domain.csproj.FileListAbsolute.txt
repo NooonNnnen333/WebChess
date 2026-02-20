@@ -9,3 +9,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/refint/Shahmati.Domain.dll
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/ref/Shahmati.Domain.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Domain/obj/Debug/net9.0/Shahmati.Domain.sourcelink.json

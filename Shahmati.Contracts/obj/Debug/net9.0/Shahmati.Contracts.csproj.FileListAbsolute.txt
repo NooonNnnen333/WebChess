@@ -13,3 +13,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/refint/Shahmati.Contracts.dll
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/ref/Shahmati.Contracts.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Contracts/obj/Debug/net9.0/Shahmati.Contracts.sourcelink.json

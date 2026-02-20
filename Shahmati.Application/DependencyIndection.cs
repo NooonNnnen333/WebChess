@@ -12,6 +12,7 @@ public static class DependencyIndection
         service.AddValidatorsFromAssembly(typeof(DependencyIndection).Assembly);
 
         service.AddScoped<IGameService, GameService>();
+        service.AddScoped<IPlayerService, PlayerService>();
         
         return service;
     }

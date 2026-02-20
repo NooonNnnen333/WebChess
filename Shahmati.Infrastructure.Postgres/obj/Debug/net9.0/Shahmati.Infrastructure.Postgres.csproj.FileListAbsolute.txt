@@ -21,3 +21,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/obj/Debug/net9.0/Shahmati.Infrastructure.Postgres.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/obj/Debug/net9.0/Shahmati.Infrastructure.Postgres.genruntimeconfig.cache
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/obj/Debug/net9.0/ref/Shahmati.Infrastructure.Postgres.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Infrastructure.Postgres/obj/Debug/net9.0/Shahmati.Infrastructure.Postgres.sourcelink.json

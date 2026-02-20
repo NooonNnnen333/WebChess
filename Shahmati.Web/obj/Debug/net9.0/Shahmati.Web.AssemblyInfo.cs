@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shahmati.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cad2eaeb470a6aec3af5816421480cd95721dbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shahmati.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shahmati.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
