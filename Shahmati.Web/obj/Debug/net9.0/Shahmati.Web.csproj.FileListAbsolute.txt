@@ -143,3 +143,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Web/obj/Debug/net9.0/Shahmati.Web.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Web/obj/Debug/net9.0/Shahmati.Web.genruntimeconfig.cache
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Web/obj/Debug/net9.0/ref/Shahmati.Web.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Web/obj/Debug/net9.0/Shahmati.Web.sourcelink.json

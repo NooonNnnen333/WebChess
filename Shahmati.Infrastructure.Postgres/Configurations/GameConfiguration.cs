@@ -8,13 +8,20 @@ public class GameConfiguration : IEntityTypeConfiguration<Games>
 {
     public void Configure(EntityTypeBuilder<Games> configurationOfGames)
     {
+        /* Ключи */
         configurationOfGames.HasKey(c => c.GamesId);
-        configurationOfGames.ComplexProperty(x => x.Hodie, b =>
-        {
-            b.Property(p => p.bukva).HasColumnName("hodie_bukva");
-            b.Property(p => p.integer).HasColumnName("hodie_integer");
-        });
+//-----------------------------------------------------------------------------------
 
+        /* Ходы */
+        configurationOfGames.HasMany(x => x.CoordinatesCollection)
+            .WithOne(x => x.Game)
+            .HasForeignKey(x => x.GameId);
+//-----------------------------------------------------------------------------------
 
+        /* Игроки в игре */
+        configurationOfGames.HasMany(x => x.Players)
+            .WithOne(x => x.ThisGame)
+            .HasForeignKey(x => x.ThisGameId);
+//-----------------------------------------------------------------------------------
     }
 }

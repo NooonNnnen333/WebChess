@@ -11,6 +11,9 @@ public static class DependencyIndection
         service.AddDbContext<ShahmatiDbContext>(option => option.UseNpgsql(configuration.GetConnectionString("Database")));
 
         service.AddScoped<IGameRepository, GameRepository>();
+        service.AddScoped<IPlayersRepository, PlayersRepository>();
+        service.AddScoped<ICoordinatesReposotory, CoordinatesReposotory>();
+        //service.AddScoped<I>()
 
         return service;
     }

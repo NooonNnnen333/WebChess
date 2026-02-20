@@ -17,3 +17,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/obj/Debug/net9.0/refint/Shahmati.Controllers.dll
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/obj/Debug/net9.0/Shahmati.Controllers.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/obj/Debug/net9.0/ref/Shahmati.Controllers.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Controllers/obj/Debug/net9.0/Shahmati.Controllers.sourcelink.json

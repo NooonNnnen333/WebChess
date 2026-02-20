@@ -6,5 +6,5 @@ public interface IGameService
 {
     Task<Guid> Create(CreateGameDto Dto, CancellationToken сancellationToken);
     
-    Task<IReadOnlyList<CreateGameDto>> GetAll(CancellationToken cancellationToken);
+    Task<IReadOnlyList<Domain.Games>> GetAll(CancellationToken cancellationToken);
 }

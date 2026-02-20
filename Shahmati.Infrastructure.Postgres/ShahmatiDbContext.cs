@@ -10,6 +10,10 @@ public class ShahmatiDbContext : Microsoft.EntityFrameworkCore.DbContext
     }
     
     public DbSet<Games> Games { get; set; }
+    public DbSet<Coordinates> Coordinates { get; set; }
+    public DbSet<Player> Player { get; set; }
+    
+    public DbSet<PlayrsThisGame> PlayrsThisGame { get; set; }
     
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

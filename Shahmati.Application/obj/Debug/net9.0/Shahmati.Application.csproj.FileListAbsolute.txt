@@ -15,3 +15,4 @@
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/refint/Shahmati.Application.dll
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.pdb
 /Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/ref/Shahmati.Application.dll
+/Users/egorvasilev/RiderProjects/noviyAsp/Shahmati.Application/obj/Debug/net9.0/Shahmati.Application.sourcelink.json
